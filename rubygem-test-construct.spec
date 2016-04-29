@@ -4,7 +4,7 @@
 #
 Name     : rubygem-test-construct
 Version  : 1.2.2
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/test-construct-1.2.2.gem
 Source0  : https://rubygems.org/downloads/test-construct-1.2.2.gem
 Summary  : No detailed summary available
